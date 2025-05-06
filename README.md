@@ -1,14 +1,3 @@
-Here’s your updated `README.md` reflecting:
-
-* The correct course name (Knowledge Organization Systems)
-* Your professor and TA
-* GitHub context and project identity
-
----
-
-## ✅ Final `README.md`
-
-````md
 # OpenGeneva Sparkboard Feedback Engine
 
 This project simulates an intelligent peer review pipeline for OpenGeneva Sparkboard hackathons.  
@@ -94,7 +83,7 @@ for the 2025 OpenGeneva event as a real-world extension of Sparkboard peer feedb
 
 ---
 
-## 📌 Future Ideas
+## 📌 Future Work
 
 * Live Sparkboard integration
 * Real LLM API feedback
