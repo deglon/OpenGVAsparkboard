@@ -1,0 +1,25 @@
+Top 3 Most Trusted Reviewers:
+
+- R5 (trust score: 0.44)
+- R6 (trust score: 0.19)
+- R2 (trust score: 0.15)
+
+========================================
+
+Project ID: P2
+----------------------------------------
+Top Feedback Themes:
+- Impact: mentioned by 1 reviewer(s)
+
+Reviewer Insights (sorted by weighted score):
+- R2 (score: 3.7, trust: 0.15, match: environment, visualization): "The impact potential is strong, but unclear implementation."
+
+
+Project ID: P5
+----------------------------------------
+Top Feedback Themes:
+
+Reviewer Insights (sorted by weighted score):
+- R5 (score: 3.0, trust: 0.44, match: agriculture, ai): "Limited novelty, but practical and well scoped."
+- R5 (score: 3.0, trust: 0.44, match: agriculture, ai): "Great use of AI, but not inclusive."
+

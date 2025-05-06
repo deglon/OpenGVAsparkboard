@@ -1,0 +1,10 @@
+{
+    "AI": ["machine learning", "deep learning", "nlp", "neural networks"],
+    "Health": ["cardiology", "public health", "telemedicine", "bioinformatics"],
+    "Education": ["pedagogy", "edtech", "curriculum", "learning theory"],
+    "Environment": ["climate", "sustainability", "ecology", "biodiversity"],
+    "Politics": ["governance", "policy", "elections", "civic tech"],
+    "Design": ["ux", "graphic design", "usability"],
+    "Calligraphy": ["handwriting", "fonts", "typeface"]
+  }
+  
