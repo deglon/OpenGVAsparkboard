@@ -1,0 +1,11 @@
+reviewer_id,reviewer_name,reviewer_domains,linkedin,github,confidence_score
+R1,Reviewer1,"AI,Health",https://linkedin.com/in/reviewer1,,0.71
+R2,Reviewer2,"Environment,Visualization",,https://github.com/reviewer2,0.82
+R3,Reviewer3,"Politics,Law",https://linkedin.com/in/reviewer3,,0.65
+R4,Reviewer4,"Technology,Design",,https://github.com/reviewer4,0.46
+R5,Reviewer5,"Agriculture,AI",https://linkedin.com/in/reviewer5,,0.58
+R6,Reviewer6,"Education,Design",,https://github.com/reviewer6,0.7
+R7,Reviewer7,"Ecology,Environment",https://linkedin.com/in/reviewer7,,0.47
+R8,Reviewer8,"AI,Policy",,https://github.com/reviewer8,0.82
+R9,Reviewer9,"Urban,Environment",https://linkedin.com/in/reviewer9,,0.83
+R10,Reviewer10,"Privacy,Security",,https://github.com/reviewer10,0.81

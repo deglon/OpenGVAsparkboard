@@ -1,0 +1,31 @@
+project_id,reviewer_id,review_text,review_score,domain_relevance,matched_terms
+P6,R1,Impressive idea. Lacks stakeholder input.,0,0.5,ai
+P2,R1,Ethics and privacy are underdeveloped.,2,0.0,None
+P10,R1,"The impact potential is strong, but unclear implementation.",1,0.0,None
+P2,R2,Impressive idea. Lacks stakeholder input.,0,1.0,"environment, visualization"
+P2,R2,"Feasibility is high, but needs stronger ethical design.",1,1.0,"environment, visualization"
+P4,R2,Scalability could be a challenge in low-infra environments.,1,0.0,None
+P5,R3,"Great use of AI, but not inclusive.",0,0.0,None
+P10,R3,Impressive idea. Lacks stakeholder input.,0,0.0,None
+P4,R3,"Feasibility is high, but needs stronger ethical design.",1,0.0,None
+P2,R4,"Limited novelty, but practical and well scoped.",0,0.0,None
+P3,R4,"Feasibility is high, but needs stronger ethical design.",1,0.5,design
+P9,R4,Impressive idea. Lacks stakeholder input.,0,0.0,None
+P3,R5,Ethics and privacy are underdeveloped.,2,0.0,None
+P3,R5,Impressive idea. Lacks stakeholder input.,0,0.0,None
+P2,R5,"Limited novelty, but practical and well scoped.",0,0.0,None
+P6,R6,Scalability could be a challenge in low-infra environments.,1,0.5,education
+P7,R6,Ethics and privacy are underdeveloped.,2,0.0,None
+P6,R6,"Strong UX, but lacks technical depth.",0,0.5,education
+P5,R7,"The impact potential is strong, but unclear implementation.",1,0.0,None
+P1,R7,"The impact potential is strong, but unclear implementation.",1,0.0,None
+P4,R7,Very innovative. Needs clearer governance.,1,0.0,None
+P2,R8,"Feasibility is high, but needs stronger ethical design.",1,0.0,None
+P10,R8,"Limited novelty, but practical and well scoped.",0,0.0,None
+P7,R8,Impressive idea. Lacks stakeholder input.,0,0.0,None
+P9,R9,Very innovative. Needs clearer governance.,1,1.0,"environment, urban"
+P5,R9,"Limited novelty, but practical and well scoped.",0,0.0,None
+P2,R9,Very innovative. Needs clearer governance.,1,0.5,environment
+P8,R10,"Limited novelty, but practical and well scoped.",0,0.0,None
+P3,R10,Scalability could be a challenge in low-infra environments.,1,0.0,None
+P10,R10,"Great use of AI, but not inclusive.",0,1.0,"privacy, security"

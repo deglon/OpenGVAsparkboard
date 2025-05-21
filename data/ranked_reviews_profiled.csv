@@ -1,0 +1,5 @@
+project_id,reviewer_id,review_text,review_score,domain_relevance,matched_terms,linkedin,github,confidence_score,expertise_score,final_weighted_score
+P10,R10,"Great use of AI, but not inclusive.",0,1.0,"privacy, security",,https://github.com/reviewer10,0.81,1.0,3.0
+P2,R2,"Feasibility is high, but needs stronger ethical design.",1,1.0,"environment, visualization",,https://github.com/reviewer2,0.82,1.0,3.7
+P2,R2,Impressive idea. Lacks stakeholder input.,0,1.0,"environment, visualization",,https://github.com/reviewer2,0.82,1.0,3.0
+P9,R9,Very innovative. Needs clearer governance.,1,1.0,"environment, urban",https://linkedin.com/in/reviewer9,,0.83,1.0,3.7
