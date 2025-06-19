@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ## ✍️ Contributors
 
-This system was built by students at the University of Geneva
+This system was built by students (Oussama Rattazi, Mahidhar Reddy Vaka) at the University of Geneva
 for the 2025 OpenGeneva event as a real-world extension of Sparkboard peer feedback.
 
 ---
