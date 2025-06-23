@@ -1,90 +1,110 @@
+## ✅ `README.md`
+
+````md
 # OpenGeneva Sparkboard Feedback Engine
 
 This project simulates an intelligent peer review pipeline for OpenGeneva Sparkboard hackathons.  
-It integrates semantic matching, reviewer profiling, and AI-inspired scoring to improve the quality and structure of hackathon feedback.
+It matches reviewers to projects using an ontology, profiles expertise, scores reviews using Groq's LLM, and generates structured feedback with reviewer trust scores.
 
-Developed as part of the **Knowledge Organization Systems** course  
-Taught by **Prof. Thomas Maillart**, with **TA Thibaut Chataing**  
-University of Geneva, 2025
+Built during the **Knowledge Organization Systems** course at the University of Geneva, 2025  
+**Prof. Thomas Maillart** · **TA Thibaut Chataing**
 
 ---
 
 ## 🔍 What It Does
 
-- Matches reviewers to projects using an extensible ontology
-- Analyzes review quality using simulated LLM logic
-- Profiles reviewers via LinkedIn/GitHub or self-rated confidence
-- Computes reviewer trust scores across projects
-- Filters low-effort or off-topic reviews
-- Generates structured, ranked summaries (text + HTML)
+- Matches reviewers to projects using ontology-based domain expansion
+- Generates reviews with Groq (LLaMA-3) for each project
+- Merges LLM-generated reviews with human feedback
+- Scores reviews and ranks them by relevance + content quality
+- Computes reviewer trust scores from multiple signals
+- Produces clear feedback summaries (TXT + HTML)
 
 ---
 
-## 🧠 Core Pipeline
-
-- `data/` → CSVs for projects, reviewers, reviews, and ontology
-- `pipeline/` → Modular scripts for scoring, profiling, filtering, summarizing
-- `outputs/` → Feedback summaries, reviewer trust scores, HTML exports
-- `run_pipeline.py` → Runs all pipeline steps end-to-end
-
----
-
-## ⚙️ How to Run
+## 🧠 Core Pipeline Steps
 
 ```bash
 python run_pipeline.py
 ````
 
-Pipeline Steps:
+This script executes:
 
-1. Score reviews and match domains
-2. Profile reviewers
-3. Rank feedback
-4. Interpret using AI-style logic
-5. Generate summaries (text + HTML)
-6. Output reviewer trust scores
+1. Generate Groq reviews (`groq_generate_reviews.py`)
+2. Merge LLM and human reviews (`merge_generated_reviews.py`)
+3. Score reviews + domain alignment (`review_scoring_pipeline.py`)
+4. Profile reviewers (`reviewer_profiling.py`)
+5. Rank reviews (`rerank_with_profiles.py`)
+6. Generate text summaries (`generate_feedback_summary.py`)
+7. Generate structured summaries (`generate_structured_summary.py`)
+8. Export per-project HTML summaries (`generate_structured_html.py`)
+9. Calculate reviewer trust scores (`generate_reviewer_trust.py`)
 
 ---
 
-## 🗂 Example Outputs
+## 🗂 Project Structure
 
-* `data/scored_reviews.csv`
-* `data/profiled_reviews.csv`
-* `data/reviewer_trust_score.csv`
-* `outputs/feedback_summary_profiled.txt`
-* `outputs/html_summaries/` (per project)
+```
+OpenGVAsparkboard/
+├── data/
+│   ├── projects.csv
+│   ├── reviewers.csv
+│   ├── reviews.csv
+│   ├── generated_reviews.csv
+│   ├── structured_reviews.csv
+│   └── reviewer_trust_score.csv
+├── outputs/
+│   ├── feedback_summary_profiled.txt
+│   └── html_summaries/
+├── pipeline/
+│   └── [all processing scripts]
+└── run_pipeline.py
+```
+
+---
+
+## ✨ Example Outputs
+
+* `feedback_summary_profiled.txt` – human + LLM feedback by project
+* `structured_reviews.csv` – feasibility, ethics, scalability scores
+* `reviewer_trust_score.csv` – ranked trust per reviewer
+* `html_summaries/` – clean per-project summaries for publishing
 
 ---
 
 ## 🧪 Ontology
 
-The domain ontology is stored in `data/domain_ontology.json`
-It maps concepts like `AI → NLP, Deep Learning`, allowing reviewer-project semantic alignment.
+Stored in `data/domain_ontology.json`, used to:
+
+* Expand reviewer/project domains
+* Detect mismatches
+* Improve domain relevance scoring
 
 ---
 
-## 📦 Requirements
-
-* Python 3.10+
-* pandas
-
-Install:
+## 🧰 Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install pandas requests
 ```
 
 ---
 
-## ✍️ Contributors
+## 📦 Future Extensions
 
+<<<<<<< release/final-pipeline
+* Live integration with Sparkboard API
+* Use OpenAI or Claude for multi-model scoring
+* Add a dashboard for reviewers and teams
+* Real-time review ingestion and scoring during hackathons
+=======
 This system was built by students (Oussama Rattazi, Mahidhar Reddy Vaka) at the University of Geneva
 for the 2025 OpenGeneva event as a real-world extension of Sparkboard peer feedback.
+>>>>>>> main
 
 ---
 
-## 📌 Future Work
+## 🧑‍💻 Authors
 
-* Live Sparkboard integration
-* Real LLM API feedback
-* Web-based dashboard for review coordination
+Developed by students at the University of Geneva
+Course: Knowledge Organization Systems · Spring 2025

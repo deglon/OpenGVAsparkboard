@@ -1,90 +1,4 @@
-Project ID: P10
-----------------------------------------
-Average Scores:
-- Feasibility: 0.25/5
-- Scalability: 1.0/5
-- Ethics: 0.75/5
-
-LLM Comments from Reviewers:
-- Reviewer R9: Simulated response based on: 'Great use of AI, but not inclusive....'
-- Reviewer R4: Simulated response based on: 'Good domain fit. Would scale well....'
-- Reviewer R9: Simulated response based on: 'Ethics and privacy are underdeveloped....'
-- Reviewer R2: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
-
-
-Project ID: P2
-----------------------------------------
-Average Scores:
-- Feasibility: 0.67/5
-- Scalability: 1.0/5
-- Ethics: 0.5/5
-
-LLM Comments from Reviewers:
-- Reviewer R7: Simulated response based on: 'Limited novelty, but practical and well ...'
-- Reviewer R10: Simulated response based on: 'Great use of AI, but not inclusive....'
-- Reviewer R2: Simulated response based on: 'The impact potential is strong, but uncl...'
-- Reviewer R4: Simulated response based on: 'Ethics and privacy are underdeveloped....'
-- Reviewer R1: Simulated response based on: 'The impact potential is strong, but uncl...'
-- Reviewer R1: Simulated response based on: 'Feasibility is high, but needs stronger ...'
-
-
-Project ID: P3
-----------------------------------------
-Average Scores:
-- Feasibility: 0.0/5
-- Scalability: 0.0/5
-- Ethics: 0.67/5
-
-LLM Comments from Reviewers:
-- Reviewer R2: Simulated response based on: 'The impact potential is strong, but uncl...'
-- Reviewer R10: Simulated response based on: 'Strong UX, but lacks technical depth....'
-- Reviewer R10: Simulated response based on: 'Scalability could be a challenge in low-...'
-
-
-Project ID: P4
-----------------------------------------
-Average Scores:
-- Feasibility: 0.25/5
-- Scalability: 1.0/5
-- Ethics: 0.75/5
-
-LLM Comments from Reviewers:
-- Reviewer R3: Simulated response based on: 'Great use of AI, but not inclusive....'
-- Reviewer R8: Simulated response based on: 'Good domain fit. Would scale well....'
-- Reviewer R1: Simulated response based on: 'The impact potential is strong, but uncl...'
-- Reviewer R8: Simulated response based on: 'Scalability could be a challenge in low-...'
-
-
-Project ID: P5
-----------------------------------------
-Average Scores:
-- Feasibility: 0.8/5
-- Scalability: 0.6/5
-- Ethics: 0.8/5
-
-LLM Comments from Reviewers:
-- Reviewer R7: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
-- Reviewer R9: Simulated response based on: 'Good domain fit. Would scale well....'
-- Reviewer R5: Simulated response based on: 'Limited novelty, but practical and well ...'
-- Reviewer R5: Simulated response based on: 'Great use of AI, but not inclusive....'
-- Reviewer R7: Simulated response based on: 'Ethics and privacy are underdeveloped....'
-
-
-Project ID: P6
-----------------------------------------
-Average Scores:
-- Feasibility: 1.5/5
-- Scalability: 0.5/5
-- Ethics: 0.75/5
-
-LLM Comments from Reviewers:
-- Reviewer R8: Simulated response based on: 'Feasibility is high, but needs stronger ...'
-- Reviewer R6: Simulated response based on: 'Very innovative. Needs clearer governanc...'
-- Reviewer R3: Simulated response based on: 'Feasibility is high, but needs stronger ...'
-- Reviewer R6: Simulated response based on: 'Very innovative. Needs clearer governanc...'
-
-
-Project ID: P7
+Project ID: P1
 ----------------------------------------
 Average Scores:
 - Feasibility: 1.0/5
@@ -92,18 +6,124 @@ Average Scores:
 - Ethics: 1.0/5
 
 LLM Comments from Reviewers:
-- Reviewer R5: Simulated response based on: 'Feasibility is high, but needs stronger ...'
+- Reviewer R7: Simulated response based on: 'The impact potential is strong, but uncl...'
+
+
+Project ID: P10
+----------------------------------------
+Average Scores:
+- Feasibility: 0.5/5
+- Scalability: 0.75/5
+- Ethics: 0.25/5
+
+LLM Comments from Reviewers:
+- Reviewer R1: Simulated response based on: 'The impact potential is strong, but uncl...'
+- Reviewer R3: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R8: Simulated response based on: 'Limited novelty, but practical and well ...'
+- Reviewer R10: Simulated response based on: 'Great use of AI, but not inclusive....'
+
+
+Project ID: P2
+----------------------------------------
+Average Scores:
+- Feasibility: 0.43/5
+- Scalability: 0.43/5
+- Ethics: 1.0/5
+
+LLM Comments from Reviewers:
+- Reviewer R1: Simulated response based on: 'Ethics and privacy are underdeveloped....'
+- Reviewer R2: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R2: Simulated response based on: 'Feasibility is high, but needs stronger ...'
+- Reviewer R4: Simulated response based on: 'Limited novelty, but practical and well ...'
+- Reviewer R5: Simulated response based on: 'Limited novelty, but practical and well ...'
+- Reviewer R8: Simulated response based on: 'Feasibility is high, but needs stronger ...'
+- Reviewer R9: Simulated response based on: 'Very innovative. Needs clearer governanc...'
+
+
+Project ID: P3
+----------------------------------------
+Average Scores:
+- Feasibility: 0.75/5
+- Scalability: 1.0/5
+- Ethics: 0.75/5
+
+LLM Comments from Reviewers:
+- Reviewer R4: Simulated response based on: 'Feasibility is high, but needs stronger ...'
+- Reviewer R5: Simulated response based on: 'Ethics and privacy are underdeveloped....'
+- Reviewer R5: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R10: Simulated response based on: 'Scalability could be a challenge in low-...'
+
+
+Project ID: P4
+----------------------------------------
+Average Scores:
+- Feasibility: 0.67/5
+- Scalability: 0.67/5
+- Ethics: 0.33/5
+
+LLM Comments from Reviewers:
+- Reviewer R2: Simulated response based on: 'Scalability could be a challenge in low-...'
+- Reviewer R3: Simulated response based on: 'Feasibility is high, but needs stronger ...'
+- Reviewer R7: Simulated response based on: 'Very innovative. Needs clearer governanc...'
+
+
+Project ID: P5
+----------------------------------------
+Average Scores:
+- Feasibility: 1.0/5
+- Scalability: 0.33/5
+- Ethics: 0.33/5
+
+LLM Comments from Reviewers:
+- Reviewer R3: Simulated response based on: 'Great use of AI, but not inclusive....'
+- Reviewer R7: Simulated response based on: 'The impact potential is strong, but uncl...'
+- Reviewer R9: Simulated response based on: 'Limited novelty, but practical and well ...'
+
+
+Project ID: P6
+----------------------------------------
+Average Scores:
+- Feasibility: 0.33/5
+- Scalability: 0.0/5
+- Ethics: 0.33/5
+
+LLM Comments from Reviewers:
+- Reviewer R1: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R6: Simulated response based on: 'Scalability could be a challenge in low-...'
+- Reviewer R6: Simulated response based on: 'Strong UX, but lacks technical depth....'
+
+
+Project ID: P7
+----------------------------------------
+Average Scores:
+- Feasibility: 0.5/5
+- Scalability: 1.0/5
+- Ethics: 1.5/5
+
+LLM Comments from Reviewers:
+- Reviewer R6: Simulated response based on: 'Ethics and privacy are underdeveloped....'
+- Reviewer R8: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
 
 
 Project ID: P8
 ----------------------------------------
 Average Scores:
-- Feasibility: 0.67/5
-- Scalability: 0.33/5
-- Ethics: 1.0/5
+- Feasibility: 0.0/5
+- Scalability: 1.0/5
+- Ethics: 0.0/5
 
 LLM Comments from Reviewers:
-- Reviewer R6: Simulated response based on: 'Feasibility is high, but needs stronger ...'
-- Reviewer R4: Simulated response based on: 'Ethics and privacy are underdeveloped....'
-- Reviewer R3: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R10: Simulated response based on: 'Limited novelty, but practical and well ...'
+
+
+Project ID: P9
+----------------------------------------
+Average Scores:
+- Feasibility: 1.0/5
+- Scalability: 0.5/5
+- Ethics: 0.5/5
+
+LLM Comments from Reviewers:
+- Reviewer R4: Simulated response based on: 'Impressive idea. Lacks stakeholder input...'
+- Reviewer R9: Simulated response based on: 'Very innovative. Needs clearer governanc...'
 

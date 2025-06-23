@@ -1,0 +1,31 @@
+project_id,reviewer_id,review_text,review_score,domain_relevance,matched_terms,linkedin,github,confidence_score,expertise_score,final_weighted_score
+P6,R1,Impressive idea. Lacks stakeholder input.,0,0.5,ai,https://linkedin.com/in/reviewer1,,0.71,0.5,1.5
+P2,R1,Ethics and privacy are underdeveloped.,2,0.0,,https://linkedin.com/in/reviewer1,,0.71,0.0,1.4
+P10,R1,"The impact potential is strong, but unclear implementation.",1,0.0,,https://linkedin.com/in/reviewer1,,0.71,0.0,0.7
+P2,R2,Impressive idea. Lacks stakeholder input.,0,1.0,"environment, visualization",,https://github.com/reviewer2,0.82,1.0,3.0
+P2,R2,"Feasibility is high, but needs stronger ethical design.",1,1.0,"environment, visualization",,https://github.com/reviewer2,0.82,1.0,3.7
+P4,R2,Scalability could be a challenge in low-infra environments.,1,0.0,,,https://github.com/reviewer2,0.82,0.0,0.7
+P5,R3,"Great use of AI, but not inclusive.",0,0.0,,https://linkedin.com/in/reviewer3,,0.65,0.0,0.0
+P10,R3,Impressive idea. Lacks stakeholder input.,0,0.0,,https://linkedin.com/in/reviewer3,,0.65,0.0,0.0
+P4,R3,"Feasibility is high, but needs stronger ethical design.",1,0.0,,https://linkedin.com/in/reviewer3,,0.65,0.0,0.7
+P2,R4,"Limited novelty, but practical and well scoped.",0,0.0,,,https://github.com/reviewer4,0.46,0.0,0.0
+P3,R4,"Feasibility is high, but needs stronger ethical design.",1,0.5,design,,https://github.com/reviewer4,0.46,0.5,2.2
+P9,R4,Impressive idea. Lacks stakeholder input.,0,0.0,,,https://github.com/reviewer4,0.46,0.0,0.0
+P3,R5,Ethics and privacy are underdeveloped.,2,0.0,,https://linkedin.com/in/reviewer5,,0.58,0.0,1.4
+P3,R5,Impressive idea. Lacks stakeholder input.,0,0.0,,https://linkedin.com/in/reviewer5,,0.58,0.0,0.0
+P2,R5,"Limited novelty, but practical and well scoped.",0,0.0,,https://linkedin.com/in/reviewer5,,0.58,0.0,0.0
+P6,R6,Scalability could be a challenge in low-infra environments.,1,0.5,education,,https://github.com/reviewer6,0.7,0.5,2.2
+P7,R6,Ethics and privacy are underdeveloped.,2,0.0,,,https://github.com/reviewer6,0.7,0.0,1.4
+P6,R6,"Strong UX, but lacks technical depth.",0,0.5,education,,https://github.com/reviewer6,0.7,0.5,1.5
+P5,R7,"The impact potential is strong, but unclear implementation.",1,0.0,,https://linkedin.com/in/reviewer7,,0.47,0.0,0.7
+P1,R7,"The impact potential is strong, but unclear implementation.",1,0.0,,https://linkedin.com/in/reviewer7,,0.47,0.0,0.7
+P4,R7,Very innovative. Needs clearer governance.,1,0.0,,https://linkedin.com/in/reviewer7,,0.47,0.0,0.7
+P2,R8,"Feasibility is high, but needs stronger ethical design.",1,0.0,,,https://github.com/reviewer8,0.82,0.0,0.7
+P10,R8,"Limited novelty, but practical and well scoped.",0,0.0,,,https://github.com/reviewer8,0.82,0.0,0.0
+P7,R8,Impressive idea. Lacks stakeholder input.,0,0.0,,,https://github.com/reviewer8,0.82,0.0,0.0
+P9,R9,Very innovative. Needs clearer governance.,1,1.0,"environment, urban",https://linkedin.com/in/reviewer9,,0.83,1.0,3.7
+P5,R9,"Limited novelty, but practical and well scoped.",0,0.0,,https://linkedin.com/in/reviewer9,,0.83,0.0,0.0
+P2,R9,Very innovative. Needs clearer governance.,1,0.5,environment,https://linkedin.com/in/reviewer9,,0.83,0.5,2.2
+P8,R10,"Limited novelty, but practical and well scoped.",0,0.0,,,https://github.com/reviewer10,0.81,0.0,0.0
+P3,R10,Scalability could be a challenge in low-infra environments.,1,0.0,,,https://github.com/reviewer10,0.81,0.0,0.7
+P10,R10,"Great use of AI, but not inclusive.",0,1.0,"privacy, security",,https://github.com/reviewer10,0.81,1.0,3.0

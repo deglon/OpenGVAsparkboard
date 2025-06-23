@@ -1,25 +1,34 @@
 Top 3 Most Trusted Reviewers:
 
-- R5 (trust score: 0.44)
+- R9 (trust score: 0.33)
+- R2 (trust score: 0.3)
 - R6 (trust score: 0.19)
-- R2 (trust score: 0.15)
 
 ========================================
+
+Project ID: P10
+----------------------------------------
+Top Feedback Themes:
+
+Reviewer Insights (sorted by weighted score):
+- R10 (score: 3.0, trust: 0.15, match: privacy, security): "Great use of AI, but not inclusive."
+
 
 Project ID: P2
 ----------------------------------------
 Top Feedback Themes:
-- Impact: mentioned by 1 reviewer(s)
+- Feasibility: mentioned by 1 reviewer(s)
 
 Reviewer Insights (sorted by weighted score):
-- R2 (score: 3.7, trust: 0.15, match: environment, visualization): "The impact potential is strong, but unclear implementation."
+- R2 (score: 3.7, trust: 0.3, match: environment, visualization): "Feasibility is high, but needs stronger ethical design."
+- R2 (score: 3.0, trust: 0.3, match: environment, visualization): "Impressive idea. Lacks stakeholder input."
 
 
-Project ID: P5
+Project ID: P9
 ----------------------------------------
 Top Feedback Themes:
+- Governance: mentioned by 1 reviewer(s)
 
 Reviewer Insights (sorted by weighted score):
-- R5 (score: 3.0, trust: 0.44, match: agriculture, ai): "Limited novelty, but practical and well scoped."
-- R5 (score: 3.0, trust: 0.44, match: agriculture, ai): "Great use of AI, but not inclusive."
+- R9 (score: 3.7, trust: 0.33, match: environment, urban): "Very innovative. Needs clearer governance."
 

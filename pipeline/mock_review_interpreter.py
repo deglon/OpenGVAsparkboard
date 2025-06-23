@@ -1,3 +1,7 @@
+# This script is a fallback simulator for structured review scoring
+# Use only if you're not calling real LLMs (like Groq or OpenAI)
+
+
 import pandas as pd
 import random
 
