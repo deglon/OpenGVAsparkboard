@@ -92,10 +92,15 @@ pip install pandas requests
 
 ## 📦 Future Extensions
 
+<<<<<<< release/final-pipeline
 * Live integration with Sparkboard API
 * Use OpenAI or Claude for multi-model scoring
 * Add a dashboard for reviewers and teams
 * Real-time review ingestion and scoring during hackathons
+=======
+This system was built by students (Oussama Rattazi, Mahidhar Reddy Vaka) at the University of Geneva
+for the 2025 OpenGeneva event as a real-world extension of Sparkboard peer feedback.
+>>>>>>> main
 
 ---
 
